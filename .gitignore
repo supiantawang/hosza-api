@@ -1,0 +1,15 @@
+node_modules
+*.log
+test*
+dev-upload
+
+# env files
+/env/*
+!/env/*.sample.*
+
+# keys
+/key/*
+!/key/*.sample.*
+
+# Firebase Admin SDK
+serviceAccountKey.json
